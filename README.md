@@ -9,10 +9,19 @@
 - ONGOING: Python language by MIMO (July 2024 - now)
 
 ### Work Experience
+- February 2014 – Present : Voluntary support to Students of the PADA (ex TEI of Athens) and the Agricultural University of Athens in order to learn and/or better train on Chemistry so to successfully pass the exams for faster registration of their degree.
+- September 2004 – February 2005 : GOODY's, at the Ano Patision store, as Boufetzis A.
+- June 2005 – May 2006 : Eurognosis trainings, Stationary pamphlet distributor at Nea Ionia, Ano Patisia, Agios Eleftherios, Kato Patisia train stations.
+- June 2006 – August 2006 : At the Elaia restaurant, in Plaka, as a waiter's assistant (seasonal).
+- February 2007 – February 2009 : Attica department stores, as an employee.
+- June 2009 – December 2009 : At the cafes Destino and Nuvel in Agioi Anargyroi as a DJ.
+- April 2018 - 2019: Participation in the Athens Science Festival as a scientific partner, with the post-graduate team of the Didactic Chemistry Department of the National and Kapodistrian University of Athens, to perform experiments and then explain them to the audience. Held at Technopolis in Gazi, April 24-29, 2018 / April 24-29, 2019.
 
 
 ### Projects
-
+1. Create my own AI Chat in PyCharm, under the main body of inputs and responce and enhanced it with Ollama LLMs (llama3). Also I am working on it every day to make it better as I giving it more functions. Now I am working on makeing it work by audio.
+2. Create a calculator in PyCharm to take some values as incomes from the user and calculate pH of chemical solutions.
 
 ### Assesments
+
 
