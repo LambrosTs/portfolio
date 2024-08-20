@@ -11,12 +11,15 @@
 ### Work Experience
 - July 2021 - February 2024 : Customer Service Assistant at eTable. Working on Backend and Frontend as well. Designing restaurant pages at our website.
 - February 2014 – Present : Voluntary support to Students of the PADA (ex TEI of Athens) and the Agricultural University of Athens in order to learn and/or better train on Chemistry so to successfully pass the exams for faster registration of their degree.
-- April 2018 - 2019: Participation in the Athens Science Festival as a scientific partner, with the post-graduate team of the Didactic Chemistry Department of the National and Kapodistrian University of Athens, to perform experiments and then explain them to the audience. Held at Technopolis in Gazi, April 24-29, 2018 / April 24-29, 2019.
+- April 2018 - 2019: Participation in the Athens Science Festival as a scientific partner, with the post-graduate team of the Didactic Chemistry Department of the National and Kapodistrian University of Athens, to perform experiments and then explain them to the audience. 
+  Held at Technopolis in Gazi, April 24-29, 2018 / April 24-29, 2019.
 - June 2009 – December 2010 : At the cafes Destino and Nuvel in Agioi Anargyroi as a DJ.
 - February 2007 – February 2009 : Attica department stores, as an employee.
 - June 2006 – August 2006 : At the Elaia restaurant, in Plaka, as a waiter's assistant (seasonal).
 - June 2005 – May 2006 : Eurognosis trainings, Stationary pamphlet distributor at Nea Ionia, Ano Patisia, Agios Eleftherios, Kato Patisia train stations.
 - September 2004 – February 2005 : GOODY's, at the Ano Patision store, as Boufetzis A.
+
+- Looking forword to begin my journey to the magic world of Data Science and/or Data Analysis
 
 
 ### Projects
