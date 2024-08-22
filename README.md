@@ -28,6 +28,7 @@
 
 ### Assesments
 - My first Assesment was to make resourcefull insights with Tableau at my Summer School. You can see the resaults in my tableau account:
-![image](https://github.com/user-attachments/assets/81fd85c3-83f7-488a-a51f-4a2ef278c1eb)
+https://public.tableau.com/app/profile/lambros.tsoumaris/vizzes
+
 
 
